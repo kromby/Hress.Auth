@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "Ez.Hress.Auth.AllowedOrigins": "http://localhost:3000",
+    "Ez.Hress.Auth.Storage.ConnectionString": "UseDevelopmentStorage=true",
+    "Ez.Hress.Database.ConnectionString": ""
+  },
+  "Host": {
+    "LocalHttpPort": 7073
+  }
+}
